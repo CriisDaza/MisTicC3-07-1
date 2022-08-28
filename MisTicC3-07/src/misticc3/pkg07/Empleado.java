@@ -1,6 +1,5 @@
 package misticc3.pkg07;
 
-
 public class Empleado extends Empresa{
     
     private String nombreEmpleado;
